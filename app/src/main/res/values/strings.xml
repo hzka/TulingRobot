@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">tulingRobot</string>
+    <string name="send">发送</string>
+    <string name="sendbtn1">发送</string>
+</resources>
