@@ -1,80 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
+
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="nwu.hzk.tulingrobot.MainActivity">
+     android:background="#d8e0e8">
 
-    <LinearLayout
-        android:orientation="horizontal"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content">
 
-        <RelativeLayout
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
 
-            <ImageView
-                android:layout_alignParentRight="true"
-                android:id="@+id/ivRight"
-                android:layout_height="60dp"
-                android:layout_width="60dp"
-                android:src="@drawable/right"
-                >
-            </ImageView>
+       <!--</LinearLayout>-->
+     <android.support.v7.widget.RecyclerView
+         android:layout_width="match_parent"
+         android:layout_height="0dp"
+         android:id="@+id/recycler_view01"
+         android:layout_weight="1"></android.support.v7.widget.RecyclerView>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+    <EditText
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:hint="Type things here!"
+        android:layout_weight="5"
+        android:maxLines="1"
+        android:id="@+id/edit_text01"/>
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:layout_weight="1"
 
-            <TextView
-                android:layout_toLeftOf="@id/ivRight"
-                android:id="@+id/tvRight"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:gravity="center"
-                android:background="@drawable/zuo"
-                />
-        </RelativeLayout>
+        android:id="@+id/send_Btn01"
+        android:background="@drawable/send1"
+
+
+        />
     </LinearLayout>
-    <LinearLayout
-        android:orientation="horizontal"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content">
-
-        <ImageView android:id="@+id/ivLeft"
-            android:layout_height="60dp"
-            android:layout_width="60dp"
-            android:src="@drawable/left"
-            >
-        </ImageView>
-        <TextView
-            android:id="@+id/tvLeft"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:gravity="center"
-            android:background="@drawable/you"
-            />
-
-    </LinearLayout>
-    <LinearLayout
-        android:orientation="horizontal"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:gravity="bottom"
-        >
-        <EditText
-            android:layout_width="300dp"
-            android:layout_height="wrap_content"
-            android:hint="Type things here!"
-            android:maxLines="1"
-            android:id="@+id/et1"/>
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/sendbtn1"
-            android:id="@+id/sendBtn"
-            android:background="#8A2BE2"
-            android:textColor="#000000"
-           />
-
-       </LinearLayout>
-
 </LinearLayout>

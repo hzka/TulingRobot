@@ -2,13 +2,15 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="nwu.hzk.tulingrobot">
 
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
     <uses-permission android:name="android.permission.INTERNET">
         </uses-permission>
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
-        android:label="Chatting Robot"
+        android:icon="@drawable/left"
+        android:label="An Robot"
         android:supportsRtl="true"
+
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity"
             android:windowSoftInputMode="adjustResize|stateHidden"

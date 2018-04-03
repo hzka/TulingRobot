@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\postgraduate\Code Pratctice\AndroidPractice\AndroidStudioProjects\tulingRobot\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\postgraduate\Code Pratctice\AndroidPractice\AndroidStudioProjects\tulingRobot\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_aaf59741ff5e3a729c35e5d750b0a35b8070e179.jar" />
+    </item>
+    <item
+        jar="E:\postgraduate\Code Pratctice\AndroidPractice\AndroidStudioProjects\tulingRobot\app\libs\httpclient-4.1.2.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="9003011c1b6d28a7331f04251a25e7ccf63c98f8">
+        <dex dex="E:\postgraduate\Code Pratctice\AndroidPractice\AndroidStudioProjects\tulingRobot\app\build\intermediates\pre-dexed\debug\httpclient-4.1.2_a10e43fc62704f3ce84b61bc089fc1f126417cbc.jar" />
+    </item>
+    <item
+        jar="E:\postgraduate\Code Pratctice\AndroidPractice\AndroidStudioProjects\tulingRobot\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\postgraduate\Code Pratctice\AndroidPractice\AndroidStudioProjects\tulingRobot\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_379c1897ba5b27d9d6a74e9641b3d463752a7920.jar" />
+    </item>
+    <item
+        jar="E:\postgraduate\Code Pratctice\AndroidPractice\AndroidStudioProjects\tulingRobot\app\libs\httpcore-4.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="50d62373255daf8fa4f21ce381683ed64a3a95b8">
+        <dex dex="E:\postgraduate\Code Pratctice\AndroidPractice\AndroidStudioProjects\tulingRobot\app\build\intermediates\pre-dexed\debug\httpcore-4.0_cb544897c9e1124970a66d950791b2f260c5d3ff.jar" />
+    </item>
+    <item
+        jar="C:\Users\hzk\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\postgraduate\Code Pratctice\AndroidPractice\AndroidStudioProjects\tulingRobot\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_6e1b555c35c5bed966cf90def039f95432546ae9.jar" />
+    </item>
+    <item
+        jar="E:\postgraduate\Code Pratctice\AndroidPractice\AndroidStudioProjects\tulingRobot\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\postgraduate\Code Pratctice\AndroidPractice\AndroidStudioProjects\tulingRobot\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c2385caafc862a283834f283e582628cc582eead.jar" />
+    </item>
+    <item
+        jar="E:\postgraduate\Code Pratctice\AndroidPractice\AndroidStudioProjects\tulingRobot\app\libs\commons-codec-1.4.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="4216af16d38465bbab0f3dff8efa14204f7a399a">
+        <dex dex="E:\postgraduate\Code Pratctice\AndroidPractice\AndroidStudioProjects\tulingRobot\app\build\intermediates\pre-dexed\debug\commons-codec-1.4_56ffb398782ae5ccdd63aadc4eea0921a23831c7.jar" />
+    </item>
+    <item
+        jar="E:\postgraduate\Code Pratctice\AndroidPractice\AndroidStudioProjects\tulingRobot\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\postgraduate\Code Pratctice\AndroidPractice\AndroidStudioProjects\tulingRobot\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_11dba0c5e32f0287b97de0cc582f945664ace04a.jar" />
+    </item>
+    <item
+        jar="E:\postgraduate\Code Pratctice\AndroidPractice\AndroidStudioProjects\tulingRobot\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\postgraduate\Code Pratctice\AndroidPractice\AndroidStudioProjects\tulingRobot\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_4c60c147479a1a4ef95747972be7fe62b73fcb69.jar" />
+    </item>
+    <item
+        jar="E:\postgraduate\Code Pratctice\AndroidPractice\AndroidStudioProjects\tulingRobot\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\postgraduate\Code Pratctice\AndroidPractice\AndroidStudioProjects\tulingRobot\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_2904a42a04c9d89eda31253674e230f10d8fd71b.jar" />
+    </item>
+    <item
+        jar="E:\postgraduate\Code Pratctice\AndroidPractice\AndroidStudioProjects\tulingRobot\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\postgraduate\Code Pratctice\AndroidPractice\AndroidStudioProjects\tulingRobot\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_3d67bce5290b694fb3831113314bb615d0171be4.jar" />
+    </item>
+    <item
+        jar="E:\postgraduate\Code Pratctice\AndroidPractice\AndroidStudioProjects\tulingRobot\app\libs\commons-logging-1.1.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2d859791fbf7d880591864bd4004d8442a8a3b81">
+        <dex dex="E:\postgraduate\Code Pratctice\AndroidPractice\AndroidStudioProjects\tulingRobot\app\build\intermediates\pre-dexed\debug\commons-logging-1.1.1_0bb925bdd987d8515ae8b92663d3b75e0fbbd4ce.jar" />
+    </item>
+    <item
+        jar="E:\postgraduate\Code Pratctice\AndroidPractice\AndroidStudioProjects\tulingRobot\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\postgraduate\Code Pratctice\AndroidPractice\AndroidStudioProjects\tulingRobot\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_8a08dad66382e55ac70f191780b7aa6e8dd167a6.jar" />
+    </item>
+    <item
+        jar="E:\postgraduate\Code Pratctice\AndroidPractice\AndroidStudioProjects\tulingRobot\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\postgraduate\Code Pratctice\AndroidPractice\AndroidStudioProjects\tulingRobot\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_d486eb852ccb01a46fa4340ef451d325afb098b7.jar" />
+    </item>
+    <item
+        jar="E:\postgraduate\Code Pratctice\AndroidPractice\AndroidStudioProjects\tulingRobot\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\postgraduate\Code Pratctice\AndroidPractice\AndroidStudioProjects\tulingRobot\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_66c5762549ae03220a08e5371e8bf9d4fab45fb8.jar" />
+    </item>
+    <item
+        jar="E:\postgraduate\Code Pratctice\AndroidPractice\AndroidStudioProjects\tulingRobot\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\postgraduate\Code Pratctice\AndroidPractice\AndroidStudioProjects\tulingRobot\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_30440f0f62f3c46cda3374a5a9e8012541fa2968.jar" />
+    </item>
+    <item
+        jar="E:\postgraduate\Code Pratctice\AndroidPractice\AndroidStudioProjects\tulingRobot\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\postgraduate\Code Pratctice\AndroidPractice\AndroidStudioProjects\tulingRobot\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_18cfabd453eb8ac531ca9cba0c85d0dafdbb441d.jar" />
+    </item>
+    <item
+        jar="E:\postgraduate\Code Pratctice\AndroidPractice\AndroidStudioProjects\tulingRobot\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\postgraduate\Code Pratctice\AndroidPractice\AndroidStudioProjects\tulingRobot\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_3275dc961a044d47975e65c5d55d407e78c963e4.jar" />
+    </item>
+    <item
+        jar="E:\postgraduate\Code Pratctice\AndroidPractice\AndroidStudioProjects\tulingRobot\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="E:\postgraduate\Code Pratctice\AndroidPractice\AndroidStudioProjects\tulingRobot\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_aa2e38a84f4b49368ade1887b9adae213d52a7bd.jar" />
+    </item>
+    <item
+        jar="E:\postgraduate\Code Pratctice\AndroidPractice\AndroidStudioProjects\tulingRobot\app\libs\commons-httpclient-3.0.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="d6364bcc1b2b2aa69d008602d36a700453648560">
+        <dex dex="E:\postgraduate\Code Pratctice\AndroidPractice\AndroidStudioProjects\tulingRobot\app\build\intermediates\pre-dexed\debug\commons-httpclient-3.0.1_7173872c0691e81a81f1e69576908cf76b6d5b37.jar" />
+    </item>
+    <item
+        jar="E:\postgraduate\Code Pratctice\AndroidPractice\AndroidStudioProjects\tulingRobot\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\postgraduate\Code Pratctice\AndroidPractice\AndroidStudioProjects\tulingRobot\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_765bd6d381063a9df382c4617d4aec0ef9d747d5.jar" />
+    </item>
+
+</items>
